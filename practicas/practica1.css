@@ -1,0 +1,24 @@
+.izquierdo{
+    float: right;
+    width: 35%;
+    
+}
+
+.centro{
+    float: right;
+    width: 30%;
+    text-align: center;
+}
+.p1{
+    font-size: 20px;
+    font-style: oblique;
+    color: white;
+   }
+   .p2{
+       font-size: 30px;
+       font-style: italic;
+       color: white;
+   }
+   .cuerpo{
+    color: white;
+   }
