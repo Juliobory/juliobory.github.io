@@ -10,9 +10,10 @@ body, html {
     background-color: rgba(54, 7, 223, 0.253);
   
   }
-  .contenedor h2,h3,h4{
+  .contenedor h2,h3,h4,h5{
     padding-left: 10px;
     font-size: 20px;
+    
   }
 
   .contenido {

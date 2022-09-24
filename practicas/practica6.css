@@ -1,0 +1,25 @@
+.horario{
+    border-collapse: collapse;
+    table-layout: auto; width: 50%;
+    text-align: center;
+    
+}
+tr,td,th{
+    border: 1px solid grey;
+}
+.fila1 {
+    background-color: rgb(224, 152, 185);
+}
+.fila2 {
+    background-color: rgb(241, 224, 148);
+}
+
+.fila3 {
+    background-color: rgb(231, 150, 125);
+}
+.fila4 {
+    background-color: rgb(158, 225, 245);
+}
+.fila5 {
+    background-color: rgb(174, 142, 247);
+}
