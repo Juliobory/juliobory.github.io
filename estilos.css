@@ -3,12 +3,16 @@ body, html {
     margin: 0;
     
   }
-  .contenedor {
+  .contenedor   {
     float: left;
     width: 20%;
     height: 1000px;
     background-color: rgba(54, 7, 223, 0.253);
   
+  }
+  .contenedor h2,h3,h4{
+    padding-left: 10px;
+    font-size: 20px;
   }
 
   .contenido {
@@ -19,7 +23,7 @@ body, html {
     
   }
   .contenido h1,h2,h3{
-    padding-left: 15px;
+    padding-left: 10px;
     font-size: 20px;
   }
   .contenedor h1{
